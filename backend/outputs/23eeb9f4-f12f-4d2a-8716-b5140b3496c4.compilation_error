@@ -1,0 +1,4 @@
+Z:\Online-Judge\Judge\backend\codes\23eeb9f4-f12f-4d2a-8716-b5140b3496c4.cpp: In function 'int main()':
+Z:\Online-Judge\Judge\backend\codes\23eeb9f4-f12f-4d2a-8716-b5140b3496c4.cpp:9:1: error: expected ';' before 'return'
+ return 0;
+ ^~~~~~
